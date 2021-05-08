@@ -1,2 +1,1 @@
-# Stopwatch-react
- 
+# stopwatch with react and rxJS

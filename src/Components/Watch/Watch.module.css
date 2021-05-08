@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.text {
+  font-size: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.dots {
+  font-size: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+}
